@@ -6,7 +6,7 @@
 
 Desenvolvedor Backend com experiência em desenvolvimento de aplicações web, blockchain e infraestrutura como código. Apaixonado por tecnologia e sempre buscando aprender novas ferramentas e frameworks.
 
-Atualmente, sou desenvolvedor Backend no Itaú Unibanco S.A. trabalhando frente à tecnologias utilizando Blockchain/Web3. Também possuo uma empresa de SaaS onde desenvolvemos um ![sistema de atendimento](https://smclick.com.br) para resolver dores de outras empresas.
+Atualmente, sou desenvolvedor Backend no Itaú Unibanco S.A. trabalhando frente à tecnologias utilizando Blockchain/Web3. Também sou sócio do Grupo SM, uma empresa voltada a resolver as dores de outras empresas. Nosso carro chefe é a [SM Click](https://smclick.com.br), um SaaS de atendimento ao cliente através do WhatsApp e outras redes sociais.
 
 ## 💻 Tecnologias e Ferramentas
 
