@@ -17,6 +17,7 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -37,16 +38,6 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexORocha&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexORocha&layout=compact&theme=radical&hide_border=true&count_private=true)
-  
-</div>
 
 ## 🔥 Projetos em Destaque
 
@@ -69,7 +60,7 @@ Projeto para aprendizado de processamento assíncrono com Celery e Redis em Djan
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexorocha)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roalex/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexORocha)
   
 </div>
