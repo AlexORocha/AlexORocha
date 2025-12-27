@@ -1,25 +1,27 @@
-# 👋 Olá, eu sou Alex O. Rocha!
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AlexORocha&color=blueviolet&style=flat-square)
-  
-</div>
+# 👋 Olá, eu sou o Alex!
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web, blockchain e infraestrutura como código. Apaixonado por tecnologia e sempre buscando aprender novas ferramentas e frameworks.
+![Profile Views](https://komarev.com/ghpvc/?username=AlexORocha&color=blueviolet&style=flat-square)
+
+Desenvolvedor Backend com experiência em desenvolvimento de aplicações web, blockchain e infraestrutura como código. Apaixonado por tecnologia e sempre buscando aprender novas ferramentas e frameworks.
+
+Atualmente, sou desenvolvedor Backend no Itaú Unibanco S.A. trabalhando frente à tecnologias utilizando Blockchain/Web3. Também possuo uma empresa de SaaS onde desenvolvemos um ![sistema de atendimento](https://smclick.com.br) para resolver dores de outras empresas.
 
 ## 💻 Tecnologias e Ferramentas
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 
+### Frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ### Blockchain & Web3
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -30,7 +32,7 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-47A248?style=for-the-badge&logo=dynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas & Outros
@@ -38,23 +40,6 @@ Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🔥 Projetos em Destaque
-
-### 🪙 [my-erc20-token](https://github.com/AlexORocha/my-erc20-token)
-Projeto de TCC do MBA USP Esalq - Desenvolvimento de token ERC20 na blockchain Ethereum
-
-### 🏗️ [terraform-hcl-20250624](https://github.com/AlexORocha/terraform-hcl-20250624)
-Repositório para compartilhar conhecimento sobre Terraform e infraestrutura como código
-
-### 🔐 [unsign-eth-transaction-hsm](https://github.com/AlexORocha/unsign-eth-transaction-hsm)
-Experimento de assinatura de transações Ethereum utilizando HSM (Hardware Security Module)
-
-### 💬 [django-channels-chat-websocket](https://github.com/AlexORocha/django-channels-chat-websocket)
-Implementação de chat em tempo real utilizando Django Channels e WebSockets
-
-### ⚡ [django-celery-redis](https://github.com/AlexORocha/django-celery-redis)
-Projeto para aprendizado de processamento assíncrono com Celery e Redis em Django
 
 ## 📫 Como me encontrar
 
